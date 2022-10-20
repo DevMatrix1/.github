@@ -1,7 +1,7 @@
-## Hi Devnest SuperCoders 👋
+## Hi Dev_Matrix People 👋
 
 
-**This Organisation is built for doing some awesome projects and collaborate during this Devnest Bootcamp.**
+**This Organisation is built for doing some awesome projects and collaborate during this Learning Journey.**
 
 - Here we will be collaborate and update whatever we will learn during this Bootcamp.
 - It will be easier here to review your code and solve problems.
